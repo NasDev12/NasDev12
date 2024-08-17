@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NasDev12
-  - 🌱 I’m currently owner of SirenNetwokr and Developer at MaianMc ...
+  - 🌱 I’m currently owner of SirenNetwork and Developer at MaianMc ...
 - 📫 Email : nasser.alharthi1111@gmail.com
 - Java-Html-Python-JavaScript
 
