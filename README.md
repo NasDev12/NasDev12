@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NasDev12
-  - 🌱 I’m currently owner of SirenNetwork and Developer at MaianMc ...
+  - 🌱 I’m currently owner of SirenNetwork , discord.gg/sirenmc , and Founder oF WorldEdtion Studio ...
 - 📫 Email : nasser.alharthi1111@gmail.com
 - Java-Html-Python-JavaScript
 
