@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NasDev12
-  - 🌱 I’m currently owner of SirenNetwork , discord.gg/sirenmc , and Founder oF WorldEdtion Studio ...
+  - 🌱 I’m currently owner of Nas Services.
 - 📫 Email : nasser.alharthi1111@gmail.com
 - Java-Html-Python-JavaScript
 
